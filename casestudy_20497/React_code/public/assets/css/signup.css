@@ -1,0 +1,81 @@
+body  
+{  
+   background-image: url("C:/Users/Administrator/Desktop/Casestudy Frontend/blur-hospital.jpg"); 
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: 100% 100%;
+}  
+.signup{   
+	
+        width: 300px;   
+        margin: auto;  
+        margin: 0 0 0 80px;  
+        padding: 80px;  
+        background: aquamarine;  
+        border-radius: 20px ;  
+          
+}  
+h2{  
+	padding-top: 50px;
+    text-align: center;  
+    color: black;  
+    padding: 10px;  
+}  
+label{  
+    color: black;  
+    font-size: 17px;  
+}  
+#fname{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+
+#lname{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+
+#email{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;    
+} 
+
+#Pass{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;    
+} 
+ 
+#log{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px; 
+	background: white;	
+    color: green;  
+}
+h5{  
+    color: black;  
+}
+#sign{  
+    width: 150px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px; 
+	background: white;		
+    color: green;  
+}  
+
